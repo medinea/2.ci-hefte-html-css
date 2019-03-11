@@ -1,0 +1,538 @@
+.first {
+	background-image:url(https://template66385.motopreview.com/mt-demo/66300/66385/mt-content/uploads/2018/04/mt-1408-home-header-bg.jpg);
+	height: 1100px;
+	box-sizing: border-box;
+	background-size: cover;
+	background-position: center center; 
+}
+
+.second{
+	background: #cb1704;
+	height: 700px;
+}
+
+body{
+	font-family:  'Roboto Slab', serif;
+}
+
+ul li a{
+	text-decoration: none;
+	color:#ffffff;
+	font-size:14px;
+}
+ul li a:hover{
+	text-decoration: none;
+	color:#ffffff;
+	border-bottom: 1px solid orange;
+	border-top: 1px solid orange;
+	font-style: normal; 
+	transition: .5s all ease;
+}
+.icon i{
+	font-size: 12px;
+    width: 21px;
+    height: 21px;
+    border-radius: 40px;
+    border-style: solid;
+    color: #ffffff;
+    background-color: #cb1704;
+    border-color: transparent;
+	margin-left:10px;
+	border-left-width: 5px;
+	border-top-width: 4px;
+	box-sizing: border-box;
+}
+
+.icon i:hover{
+	transition: .3s all ease;
+	background-color: lightgray;
+
+}
+
+#header .row .button{
+    float: left;
+   	border-radius: 30px;
+    padding: 10px;
+    background-color: #cb1704;
+   
+    height: 50px;
+    display: inline-block;
+    width: 170px;
+    margin-left:42%;
+    border:2px solid #cb1704;
+    }
+
+#header .row .button a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	
+}
+#header .row .button:hover a{
+    text-decoration: none;
+    color: #cb1704;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	transition: .3s all ease;
+}
+#header .row .button:hover{
+   background: white;
+  border:2px solid #cb1704;
+    }
+.row .col-md-12{
+	margin-top: 20%
+}
+#about .img1{
+	z-index:0;
+	position: absolute;
+	display: inline-block;
+	top: -50px;	
+	left:200px;
+}
+#about .img2{
+	z-index:1;
+	position: absolute;
+	display: inline-block;
+	left:0px;	
+}
+#about {
+	position: relative;
+}
+#about .col-6{
+	top:200px;
+}
+ .third{
+	height: 600px;
+	background-image: url(../img/5.jpg);
+	background-size: cover;
+	background-position: center center; 
+	}
+	#why  .two{
+		border:2px solid #e0a950;
+	}
+	#why  .two:hover{
+		border:2px solid #cb1704;
+	 	transition: .3s all ease;
+	}
+	#why .row .button{
+   	border-radius: 30px;
+    padding: 10px;
+    background-color: #cb1704;
+    height: 50px;
+    display: inline-block;
+    width: 170px;
+    border:2px solid #cb1704;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    }
+
+#why .row .button a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	margin-left:20%;
+}
+#why .row .button:hover a{
+    text-decoration: none;
+    color: #cb1704;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	transition: .3s all ease;
+}
+#why .row .button:hover{
+   background: white;
+  border:2px solid #cb1704;
+    }
+
+ #team .row:nth-child(1){
+ 	margin:0 auto;
+ 	padding-top: 10%;
+ }
+
+ #team .container .row:nth-child(2){
+ 	display: grid;
+ 	grid-template-columns: 370px 370px 370px;
+ 	grid-gap: 25px;
+ 	height: 550px;
+ 	margin-top: 5%;
+ }
+
+ #team .container .row .grid-item1{
+ 	text-align: center;
+
+ }
+  #team .container .row .grid-item1 .text1{
+ margin-top:10% 
+  }
+.four{
+	background-image: url(https://template66385.motopreview.com/mt-demo/66300/66385/mt-content/uploads/2018/04/mt-1408-home-parallax2.jpg);
+	height:800px;
+	background-size: cover;
+}	
+
+
+#contact  .col-7 .box3 .form input{
+	padding: 5px;
+	width: 500px;
+	line-height: 30px;
+	margin-bottom:20px;
+	margin-top: 10px;
+	height: 40px;
+	margin-left: 10%;
+}
+#contact   .col-7 .box3 h2{
+	text-transform: uppercase;
+	color:white;
+	float: left;
+	margin-left: 10%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+	font-size:32px;
+}
+#contact   .col-7 .box3  textarea{
+ 	margin-top: 0px;
+ 	margin-bottom: 20px;
+ 	height: 150px;
+ 	width:500px;
+ 	margin-left:10%;
+}
+	#contact .row .button{
+   	border-radius: 30px;
+    padding: 10px;
+    background-color: #cb1704;
+    height: 50px;
+    display: inline-block;
+    width: 170px;
+    border:2px solid #cb1704;
+    margin-bottom: 10%;
+    margin-left: 10%;
+    }
+
+#contact .row .button a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	margin-left:32%;
+}
+#contact .row .button:hover a{
+    text-decoration: none;
+    color: #cb1704;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	transition: .3s all ease;
+}
+#contact .row .button:hover{
+   background: white;
+  border:2px solid #cb1704;
+    }
+
+  #contact  .row  .col-7:nth-child(2) {
+		border:2px solid #e0a950;
+		margin-top: 10%
+	}
+
+#contact  .row  .col-7:nth-child(2):hover{
+		border:2px solid #cb1704;
+	 	transition: .3s all ease;
+	}
+
+	.five{
+	background: #cb1704;
+	height: 800px;
+}
+#benefit .img3{
+	z-index:0;
+	position: absolute;
+	display: inline-block;
+	top: -50px;	
+	left:200px;
+}
+#benefit .img4{
+	z-index:1;
+	position: absolute;
+	display: inline-block;
+	left:0px;
+
+}
+#benefit {
+	position: relative;
+}
+#benefit .col-6{
+	top:200px;
+}
+#benefit .img3 img{
+	width: 350px;
+	height: 420px;
+}
+#benefit .img4 img{
+	width: 350px;
+	height: 420px;
+}
+
+#benefit .container .col-6 .row{
+	height: 60px;
+}
+
+ #agony .row:nth-child(1){
+ 	margin:0 auto;
+ 	padding-top: 10%;
+ }
+
+
+.six{
+	background-image: url(https://template66385.motopreview.com/mt-demo/66300/66385/mt-content/uploads/2018/04/mt-1408-home-parallax3.jpg);
+	height: 800px;
+	background-size: cover;
+	background-position: center center; 
+}
+#agony .container .row:nth-child(2){
+ 	display: grid;
+ 	grid-template-columns: 150px 150px 150px 150px 150px 150px;
+ 	grid-gap: 36px;
+ 	height: 40px;
+ 	margin-top: 5%;
+
+ }
+ #agony .container .row:nth-child(3){
+ 	display: grid;
+ 	grid-template-columns: 270px 270px 270px 270px ;
+ 	height: 200px; 	
+ }
+
+#agony .container  .grid-item2 p:hover{
+	background: #cb1704;
+	color:white;
+	transition: .3s all ease;
+
+}
+
+.seven{
+	background: #cb1704;
+	height: 200px;
+
+}
+
+#red .container .row .grid-item01{
+	display: grid;
+	grid-template-columns: 150px 150px 150px 150px 150px 150px;
+	grid-gap:25px;
+}
+
+.eight{
+	background: #090909;
+	height: 300px;
+}
+#images .container-fluid .row .grid-item02{
+	/*position: relative;*/
+}
+#images .container-fluid .row .grid-item02 img{
+width: 337px;
+height: 300px;
+z-index: 0;
+position: relative;
+}
+
+#images .ovarlay{
+	width: 337px;
+	height: 300px;
+	z-index: 1;
+	opacity: 0;
+	background-color: rgba(203,23,4,0.65);
+	position: absolute;
+	transition: .3s all ease-in-out;
+}
+#images .grid-item02 a{
+	text-decoration: none;
+
+}
+
+#images .ovarlay i{
+	color:white;
+	position: absolute;
+	font-size:30px;
+	text-align: center;
+	top: 140px;
+    left: 160px;
+}
+
+#images .ovarlay:hover{
+	width: 337px;
+	height: 300px;
+	z-index: 1;
+	opacity: 1;
+	background-color: rgba(203,23,4,0.65);
+	position: absolute;
+	transition: .3s all ease-in-out;	
+}
+
+
+#tell .row .button{
+   	border-radius: 30px;
+    padding: 10px;
+    background-color: #cb1704;
+    height: 50px;
+    display: inline-block;
+    width: 170px;
+    border:2px solid #cb1704;
+    margin-top: 5%;
+    }
+
+#tell .row .button a {
+    text-decoration: none;
+    color: #fff;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	margin-left:28%;
+}
+#tell .row .button:hover a{
+    text-decoration: none;
+    color: #cb1704;
+    text-transform: uppercase;
+    padding: 5px;
+   	font-size:12px;
+    display: inline-block;
+	transition: .3s all ease;
+}
+#tell .row .button:hover{
+   background: white;
+  border:2px solid #cb1704;
+    }
+
+#career .container-fluid .row .grid-item03 img{
+	width:674px;
+	height: 700px
+}
+
+#career .container-fluid .row{
+	display: grid;
+	grid-template-columns: 674px 675px;
+	height: 700px
+}
+
+#career .container-fluid .row .grid-item03 .row{
+	width: 400px;
+	height: 100px;
+	margin-top:5%;
+	margin-left:10%;
+
+}
+#career .container-fluid .row .grid-item03 .scnd{
+	margin: 15%
+}
+
+#customer .nine{
+	background-image: url(https://template66385.motopreview.com/mt-demo/66300/66385/mt-content/uploads/2018/04/mt-1408-home-parallax4.jpg);
+ 	height: 800px;
+ 	background-size: cover;
+	box-sizing: border-box;
+	background-position: center center; 
+}
+
+#customer  .col-sm-11{
+		border:2px solid #e0a950;
+
+	}
+	#customer  .col-sm-11:hover{
+		border:2px solid #cb1704;
+	 	transition: .3s all ease;
+	}
+
+	#customer .container .row .col-sm-11 .row .col-sm-2 .item p{
+	color:white;
+	margin:0px;
+	 
+	}
+	#customer .container .row .col-sm-11 .row .col-sm-2 .item {
+		text-align: center;
+	}
+	#customer .container .row .col-sm-11 .row {
+		margin-left:25% ;
+		margin-bottom: 5%;
+	}
+
+.ten{
+	background: #cb1704;
+	height: 700px;
+}
+
+
+#testimonials .container .row img{
+	width: 800px;
+	height: 150px;
+	border:1px solid transparent;
+	border-radius: 50%;
+	
+}
+
+#solve .container-fluid .row .grid-item03 img{
+	width:674px;
+	height: 900px
+}
+
+#solve .container-fluid .row{
+	display: grid;
+	grid-template-columns: 674px 675px;
+	height: 700px
+}
+
+#solve .container-fluid .row .grid-item03 .row{
+	width: 400px;
+	height: 100px;
+	margin-top:5%;
+	margin-left:10%;
+
+}
+#solve .container-fluid .row .grid-item03 .scnd{
+	margin: 15%
+}
+
+#timeline .container .row:nth-child(2){
+	display: grid;
+	grid-template-columns: 360px 360px 360px;
+	height: 170px;
+	grid-gap: 30px;
+}
+
+
+#timeline .container .row .grid-item5{
+		border:2px solid #e0a950;
+
+	}
+
+#timeline .container .row .grid-item5:hover{
+		border:2px solid #cb1704;
+	 	transition: .3s all ease;
+	}
+
+#footer .eleven{
+	background: #090909;
+	height: 500px;
+}
+
+#footer .container .row:nth-child(2) .col-6 a:hover{
+	color:#cb1704;
+	transition: .3s all ease;
+}
+
+#foot .twelve{
+background:#cb1704;
+height:50px;
+}
+
